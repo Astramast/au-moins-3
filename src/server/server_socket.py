@@ -33,9 +33,9 @@ class ServerSocket:
     def handle_client(self, conn, addr, player_id):
         print(f"Client connected {addr}")
         while True:
-            with turn_lock:
-                if current_turn != player_id:
-                    continue
+            #with game_front.can_play(player_id):
+                #if current_turn != player_id:
+                    #continue
             try:
                 data = conn.recv(1024).decode().strip()
                 if not(data):
