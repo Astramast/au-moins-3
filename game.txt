@@ -1,0 +1,13 @@
+C'est un jeu ou on joue au moins à 3
+On a un inventaire de 10 cases
+On a une quantité d'hp au début
+Il y a un item qui s'appelle au moins 3 qui tue tous les joueurs qui ont pas 3 hp ou plus
+Cet item est unique et sur la map et si le joueur qui l'a meurt il se dépose
+Y a des gemmes qui spawn et qui rendent au moins 3 hp
+Quand une gemme est prise elle a moins de 100% de chances de respawn autre part
+On peut ne pas bouger pour faire une autre action
+On peut tirer dans une direction mais ça coute 1
+On peut utiliser un item d'inventaire
+Tous les tours tu perds 1 hp
+
+
