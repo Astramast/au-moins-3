@@ -1,0 +1,11 @@
+Move commands
+MOVE LEFT|
+Skip
+
+Inventory command
+Inventory use
+
+
+Using 1 to 0
+
+Shoot 4 directs
