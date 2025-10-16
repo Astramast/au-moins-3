@@ -1,0 +1,5 @@
+Terrain
+Wall
+Hole
+Spikes
+
